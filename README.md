@@ -1,4 +1,9 @@
-### Hi there 👋
+### Todo List
+
+- [ ] A project powered by `Haskell` (WIP).
+- [ ] Personal Awesome List.
+- [ ] Learning modern C++.
+
 
 <!--
 **cmsxbc/cmsxbc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
